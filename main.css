@@ -1,0 +1,23 @@
+body {
+  color: #555;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-top: 0.3em;
+  margin-bottom: 1em;
+}
+
+.bookmark {
+  display: block;
+  margin: 5px 0;
+}
+
+.favicon {
+  line-height: 18px;
+  height: 18px;
+  vertical-align: text-bottom;
+  position: relative;
+  top: -2px;
+}
